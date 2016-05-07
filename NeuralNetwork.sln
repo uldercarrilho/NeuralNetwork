@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NNSequential", "NNSequential\NNSequential.vcxproj", "{F0DCD6F4-1F0D-4A66-8BBF-362D792100BF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NNParallel", "NNParallel\NNParallel.vcxproj", "{97E82118-D37C-4BD7-918F-C7F1E4B6E60A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{F0DCD6F4-1F0D-4A66-8BBF-362D792100BF}.Release|x64.Build.0 = Release|x64
 		{F0DCD6F4-1F0D-4A66-8BBF-362D792100BF}.Release|x86.ActiveCfg = Release|Win32
 		{F0DCD6F4-1F0D-4A66-8BBF-362D792100BF}.Release|x86.Build.0 = Release|Win32
+		{97E82118-D37C-4BD7-918F-C7F1E4B6E60A}.Debug|x64.ActiveCfg = Debug|x64
+		{97E82118-D37C-4BD7-918F-C7F1E4B6E60A}.Debug|x64.Build.0 = Debug|x64
+		{97E82118-D37C-4BD7-918F-C7F1E4B6E60A}.Debug|x86.ActiveCfg = Debug|Win32
+		{97E82118-D37C-4BD7-918F-C7F1E4B6E60A}.Debug|x86.Build.0 = Debug|Win32
+		{97E82118-D37C-4BD7-918F-C7F1E4B6E60A}.Release|x64.ActiveCfg = Release|x64
+		{97E82118-D37C-4BD7-918F-C7F1E4B6E60A}.Release|x64.Build.0 = Release|x64
+		{97E82118-D37C-4BD7-918F-C7F1E4B6E60A}.Release|x86.ActiveCfg = Release|Win32
+		{97E82118-D37C-4BD7-918F-C7F1E4B6E60A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
